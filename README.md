@@ -1,2 +1,2 @@
 # AutoRecyclerClenaer
-The program for auto-cleaning of the car cleaning basket
+The program for auto-cleaning of the windows cleaning basket
